@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-10 21:42:03</sys_created_on>
+        <sys_id>986ca8c91bc0d590d65a85d8624bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_code1_testinggccgithub.x_snc_code1.admin</sys_name>
+        <sys_package display_value="code1" source="x_snc_code1">342f12281b845590d65a85d8624bcb65</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="code1">342f12281b845590d65a85d8624bcb65</sys_scope>
+        <sys_security_acl display_value="x_snc_code1_testinggccgithub">d06c68c91bc0d590d65a85d8624bcbfc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_986ca8c91bc0d590d65a85d8624bcb0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-10 21:42:03</sys_updated_on>
+        <sys_user_role display_value="x_snc_code1.admin" name="x_snc_code1.admin">bc2f12281b845590d65a85d8624bcbff</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
